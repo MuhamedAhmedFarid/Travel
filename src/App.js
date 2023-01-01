@@ -3,7 +3,8 @@ import NavBar from './Componets/NavBar'
 import Home from './pages/Home';
 import About from './pages/About';
 import Service from './pages/Service';
-import Contact from './pages/Contact';
+import Contact from './pages/Contact'
+import Footer from './Componets/Footer';
 
 function App() {
   return (

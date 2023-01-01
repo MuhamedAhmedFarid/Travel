@@ -6,10 +6,14 @@ import img1 from '../images/1.jpg'
 import img2 from '../images/2.jpg'
 import img3 from '../images/3.jpg'
 import img4 from '../images/4.jpg'
-
+import Fade from 'react-reveal/Fade';
 function Destination() {
   return (
+    
     <div className="destination">
+        <Fade bottom>
+
+        
       <h1>Popular Destination</h1>
       <p>Tours give you opportunity to see a lot, within a time frame</p>
         <DestinationData 
@@ -34,7 +38,7 @@ function Destination() {
             img1={img3}
             img2={img4}
         />
-        
+        </Fade>
     </div>
   );
 }

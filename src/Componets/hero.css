@@ -60,7 +60,16 @@
     font-weight: bold;
     letter-spacing: 2px;
     color: #222;
+    
 }
+
+
+.hero__text .show:hover{
+    background-color: #01959a;
+    transition: .2s ease-in-out;
+}
+
+
 .hero__text .hide{
     display: none;
 }

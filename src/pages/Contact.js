@@ -1,4 +1,5 @@
 import React from "react";
+import Footer from "../Componets/Footer";
 import Hero from "../Componets/Hero";
 import Image from '../images/2.jpg'
 function Contact() {
@@ -11,6 +12,7 @@ function Contact() {
         btnClass="hide"
         imgstyle="backgroundStyle"
       />
+      <Footer />
     </>
   );
 }

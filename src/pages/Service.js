@@ -1,5 +1,7 @@
 import React from "react";
+import Footer from "../Componets/Footer";
 import Hero from "../Componets/Hero";
+import Trip from "../Componets/Trip";
 import Image from '../images/4.jpg'
 
 function Service() {
@@ -12,6 +14,8 @@ function Service() {
         btnClass="hide"
         imgstyle="backgroundStyle"
       />
+      <Trip />
+      <Footer />
     </>
   );
 }
