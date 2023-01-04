@@ -3,7 +3,6 @@ import Destination from "../Componets/Destination";
 import Hero from "../Componets/Hero";
 import Trip from "../Componets/Trip";
 import Image from "../images/12.jpg";
-import Footer from "../Componets/Footer";
 
 
 function Home() {
@@ -23,7 +22,6 @@ function Home() {
         />
         <Destination/>
         <Trip />
-        <Footer />
       </section>
       
     </>

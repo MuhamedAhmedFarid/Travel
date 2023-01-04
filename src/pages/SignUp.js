@@ -7,8 +7,6 @@ function SignUp() {
     <form>
         <input type='text' placeholder='name'/>
         <input type='email' placeholder='email'/>
-        <input type='text' placeholder='subject'/>
-        <textarea placeholder='message' rows='4'></textarea>
         <button>send a message</button>
     </form>
 </div>
