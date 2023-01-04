@@ -9,9 +9,6 @@ import Footer from "../Componets/Footer";
 function Home() {
   return (
     <>
-    
-
-    
       <section className="container">
       
         <Hero

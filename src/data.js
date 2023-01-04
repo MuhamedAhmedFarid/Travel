@@ -33,9 +33,9 @@ export const links = [
     },
     
     {
-        name: "Sign Up",
+        name:'SignUp',
         path: '/signup',
-        cName: 'sign'
+        cName: 'nav__links'
     }
 ];
 

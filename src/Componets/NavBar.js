@@ -24,7 +24,7 @@ function NavBar() {
           );
         })}
 
-        <button>Sign Up</button>
+        {/* <button>Sign Up</button> */}
         
 
       </ul>
