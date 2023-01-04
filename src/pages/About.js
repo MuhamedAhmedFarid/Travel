@@ -1,5 +1,6 @@
 import React from "react";
 import AboutData from "../Componets/AboutData";
+import Footer from "../Componets/Footer";
 import Hero from "../Componets/Hero";
 import Image from "../images/night.jpg";
 
@@ -14,6 +15,7 @@ function About() {
         imgstyle='backgroundStyle'
       />
       <AboutData />
+      <Footer/>
     </div>
   );
 }

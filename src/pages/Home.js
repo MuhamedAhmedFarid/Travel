@@ -1,5 +1,6 @@
 import React from "react";
 import Destination from "../Componets/Destination";
+import Footer from "../Componets/Footer";
 import Hero from "../Componets/Hero";
 import Trip from "../Componets/Trip";
 import Image from "../images/12.jpg";
@@ -22,6 +23,7 @@ function Home() {
         />
         <Destination/>
         <Trip />
+        <Footer />
       </section>
       
     </>
